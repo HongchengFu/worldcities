@@ -1,1 +1,1 @@
-# worldcities
+# world-cities
